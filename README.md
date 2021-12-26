@@ -29,4 +29,4 @@ console.log(`Testing, testing...`);
 ```bash
 tsc main.ts | node main.js
 ```
-* note: just substitute <your-file-name>.ts and <your-file-name>.js in the above command.
+* note: just substitute `<your-file-name>.ts` and `<your-file-name>.js` in the above command.
